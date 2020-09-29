@@ -1,0 +1,30 @@
+Tran1356$
+
+
+1. Restrict the affiliate tree to subunit 7 only
+2. Deactivate the duplicates in the umbralla local...
+3. Check affiliate member id
+4. For aff_pk = 2356 only
+5. 
+
+
+Issues 
+- compound city name
+- lack of state
+-- there exist empty UWID values
+- Why all AffiliateMemberIds are empty?
+-- How many lines of invalid addresses?
+   -- 402 rows
+
+
+
+
+Trans647
+
+Boron: From your point of view, what's is the difference?
+
+
+
+
+-- Why aff_tree is empty for DC 37
+
