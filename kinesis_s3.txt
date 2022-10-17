@@ -1,0 +1,88 @@
+{
+	"metadata":	{
+		"timestamp":	"2022-09-09T18:14:42.532467Z",
+		"record-type":	"control",
+		"operation":	"create-table",
+		"partition-key-type":	"task-id",
+		"schema-name":	"",
+		"table-name":	"awsdms_apply_exceptions"
+	}
+}{
+	"metadata":	{
+		"timestamp":	"2022-09-09T18:14:42.982741Z",
+		"record-type":	"control",
+		"operation":	"drop-table",
+		"partition-key-type":	"task-id",
+		"schema-name":	"wood",
+		"table-name":	"people"
+	}
+}{
+	"metadata":	{
+		"timestamp":	"2022-09-09T18:14:42.989292Z",
+		"record-type":	"control",
+		"operation":	"create-table",
+		"partition-key-type":	"task-id",
+		"schema-name":	"wood",
+		"table-name":	"people"
+	}
+}{
+	"data":	{
+		"id":	1,
+		"name":	"Priya",
+		"age":	18,
+		"email":	"p@gmail.com"
+	},
+	"metadata":	{
+		"timestamp":	"2022-09-09T18:14:43.001096Z",
+		"record-type":	"data",
+		"operation":	"load",
+		"partition-key-type":	"primary-key",
+		"schema-name":	"wood",
+		"table-name":	"people"
+	}
+}{
+	"data":	{
+		"id":	2,
+		"name":	"Tom",
+		"age":	21,
+		"email":	"tom@yahoo.com"
+	},
+	"metadata":	{
+		"timestamp":	"2022-09-09T18:14:43.007428Z",
+		"record-type":	"data",
+		"operation":	"load",
+		"partition-key-type":	"primary-key",
+		"schema-name":	"wood",
+		"table-name":	"people"
+	}
+}{
+	"data":	{
+		"id":	3,
+		"name":	"Jessica",
+		"age":	18,
+		"email":	"jes@gmail.com"
+	},
+	"metadata":	{
+		"timestamp":	"2022-09-09T18:14:43.013022Z",
+		"record-type":	"data",
+		"operation":	"load",
+		"partition-key-type":	"primary-key",
+		"schema-name":	"wood",
+		"table-name":	"people"
+	}
+}{
+	"data":	{
+		"id":	4,
+		"name":	"Dan",
+		"age":	5,
+		"email":	"dan@yahoo.com"
+	},
+	"metadata":	{
+		"timestamp":	"2022-09-09T18:14:43.020744Z",
+		"record-type":	"data",
+		"operation":	"load",
+		"partition-key-type":	"primary-key",
+		"schema-name":	"wood",
+		"table-name":	"people"
+	}
+}
